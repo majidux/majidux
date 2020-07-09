@@ -1,5 +1,5 @@
-### Hi there 👋
-# A simple react developer who love to play video games and watch movies
+### HELLO, I'M MAJID DARVISH NEJAD
+#### A simple react developer who love to play video games and watch movies
 
 <!--
 **majidux/majidux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
