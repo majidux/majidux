@@ -4,5 +4,5 @@ Here you can find my social media profiles http://majiddarvish.ir/
 
 
 - 🔭 I’m currently working on some open source projects.
-- 🌱 I’m currently learning golang and blender which it has nothing to do with rust.
+- 🌱 I’m currently learning golang and blender which it has nothing to do with golang.
 - 👯 I’m looking to collaborate on literaly anything.
