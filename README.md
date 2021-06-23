@@ -4,5 +4,5 @@ Here you can find my social media profiles http://majiddarvish.ir/
 
 
 - 🔭 I’m currently working on some open-source projects.
-- 🌱 I’m currently learning golang and blender which has nothing to do with golang.
+- 🌱 I’m currently learning golang and blender.
 - 👯 I’m looking to collaborate on literally anything.
