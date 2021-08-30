@@ -4,6 +4,8 @@ Here you can find my social media profiles http://majiddarvish.ir/
 And this is also my npm page https://www.npmjs.com/~majiddarvish
 
 
+- 🌱 I’m open to any React developer positions.
 - 🔭 I’m currently working on some open-source projects.
+- 👯 I’m using React for front end and nest js for backend and postgresql for database.
 - 🌱 I’m currently learning golang and blender.
 - 👯 I’m looking to collaborate on literally anything.
