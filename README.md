@@ -13,4 +13,3 @@ And this is also my npm page https://www.npmjs.com/~majiddarvish
 - 
 [![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidux&layout=compact&show_icons=true&hide=issues,contribs&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidux&layout=compact&theme=dracula)](https://github.com/majidux)
-[![Majid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=majidux&layout=compact&theme=dracula)](https://github.com/majidux)
