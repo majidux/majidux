@@ -13,4 +13,4 @@ And this is also my npm page https://www.npmjs.com/~majiddarvish
 - 🌱 I’m currently learning golang and blender.
 
 [![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidux&layout=compact&show_icons=true&hide=issues,contribs&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidux&count_private=true&layout=compact&theme=dracula&hide=css,javascript,objective-c,python,java)](https://github.com/majidux)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidux&count_private=true&layout=compact&theme=dracula&hide=css,objective-c,shell,scss,html)](https://github.com/majidux)
