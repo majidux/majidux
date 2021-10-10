@@ -2,6 +2,7 @@
 
 #### A simple software engineer who love to play video games and watch movies
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=majidux)
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/majid-darvish-nejad)
 <br/>
 
