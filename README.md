@@ -6,7 +6,7 @@
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/majid-darvish-nejad)
 <br/>
 
-Here you can find my social media profiles http://majiddarvish.ir/
+Here you can find my social media profiles https://majiddarvish.ir/
 And this is also my npm page https://www.npmjs.com/~majiddarvish
 
 - 🔭 I’m working on some open-source projects.
