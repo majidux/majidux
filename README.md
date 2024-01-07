@@ -4,9 +4,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=majidux)
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/majid-darvish-nejad)
+<img align="left" width="80" height='20' src="https://komarev.com/ghpvc/?username=majidux&label=Profile%20views&color=fe428e&style=plastic" alt="majidux" />
 <br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=majidux&label=Profile%20views&color=fe428e&style=plastic" alt="majidux" /></p>
 
 Here you can find my social media profiles https://majiddarvish.ir/
 And this is also my npm page https://www.npmjs.com/~majiddarvish
